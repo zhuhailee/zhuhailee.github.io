@@ -1,3 +1,7 @@
+# @Author: lizh
+# @Date:   2025-11-06 00:11:21
+# @Last Modified by:   lizh
+# @Last Modified time: 2025-11-06 00:26:31
 # main links
 main:
   - title: "Quick-Start Guide"
@@ -10,3 +14,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
