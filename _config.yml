@@ -1,7 +1,7 @@
 # @Author: lizh
 # @Date:   2025-11-06 00:11:21
 # @Last Modified by:   lizh
-# @Last Modified time: 2025-11-06 00:25:31
+# @Last Modified time: 2025-11-06 00:51:01
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -21,17 +21,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Lizh's Website"
+title                    : "Welcome to lizh's Website"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "lizh"
-description              : "An amazing website."
+description              : "PKU Astronomy Phd."
 url                      : "https://letspiral.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "letspiral/letspiral.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "title masthead" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "lizh" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -119,9 +119,9 @@ analytics:
 author:
   name             : "lizh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a PKU Astronomy Phd student."
+  location         : "PKU Beijing P.R.China"
+  email            : "test@test.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
