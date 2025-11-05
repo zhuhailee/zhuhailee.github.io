@@ -3,8 +3,10 @@ layout: archive
 title: "Welcome to lizh's Homepage"
 permalink: /
 author_profile: true
-# header:
-  # og_image: "research/ecdf.png"
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 My name is lizh, a student from BNU.
