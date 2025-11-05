@@ -1,7 +1,7 @@
 # @Author: lizh
 # @Date:   2025-11-06 00:11:21
 # @Last Modified by:   lizh
-# @Last Modified time: 2025-11-06 00:45:12
+# @Last Modified time: 2025-11-06 01:05:45
 # main links
 main:
   # - title: "Quick-Start Guide"
@@ -16,7 +16,7 @@ main:
   #   url: /sitemap/
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /cv/
   - title: "Publications"
     url: /publications/
