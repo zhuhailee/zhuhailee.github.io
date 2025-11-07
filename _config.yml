@@ -1,7 +1,7 @@
 # @Author: lizh
 # @Date:   2025-11-06 00:11:21
 # @Last Modified by:   lizh
-# @Last Modified time: 2025-11-07 16:40:45
+# @Last Modified time: 2025-11-07 16:52:47
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -21,7 +21,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Welcome to Zhuhai Li's Homepage"
+title                    : "Zhuhai Li's Homepage"
 title_separator          : "-"
 subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "Zhuhai Li"
