@@ -1,7 +1,7 @@
 # @Author: lizh
 # @Date:   2025-11-06 00:11:21
 # @Last Modified by:   lizh
-# @Last Modified time: 2025-11-07 17:11:26
+# @Last Modified time: 2025-11-07 17:29:05
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -118,7 +118,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhuhai Li"
-  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Astronomy Phd student."
   location         : "Peking University, China"
   #email            : ""
