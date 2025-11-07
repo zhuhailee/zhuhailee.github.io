@@ -1,7 +1,7 @@
 # @Author: lizh
 # @Date:   2025-11-06 00:11:21
 # @Last Modified by:   lizh
-# @Last Modified time: 2025-11-07 16:32:34
+# @Last Modified time: 2025-11-07 16:40:45
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -126,6 +126,10 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0009-0004-7187-0115"
+      target: "_blank"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -137,7 +141,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/zhuhailee"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
