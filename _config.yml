@@ -1,7 +1,7 @@
 # @Author: lizh
 # @Date:   2025-11-06 00:11:21
 # @Last Modified by:   lizh
-# @Last Modified time: 2025-11-07 17:00:00
+# @Last Modified time: 2025-11-07 17:01:40
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -121,15 +121,11 @@ author:
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Astronomy Phd student."
   location         : "PKU Beijing P.R.China"
-  email            : ""
+  #email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "zhuhaili@stu.pku.edu.cn"
-    - label: "Orcid"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0009-0004-7187-0115"
-      target: "_blank"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -145,6 +141,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0009-0004-7187-0115"
+      target: "_blank"
 
 # Site Footer
 footer:
