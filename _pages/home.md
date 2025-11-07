@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Welcome to lizh's Homepage"
+title: "Welcome to Zhuhai Li/Lee's Homepage"
 permalink: /
 author_profile: true
 # redirect_from: 
@@ -9,4 +9,4 @@ author_profile: true
 ---
 
 
-My name is lizh, a student from BNU.
+I'm Zhuhai Li, a phd candidate at the peking university, working with Dr.Ruobing Dong. My research foucus on High Contrast Imaging.
