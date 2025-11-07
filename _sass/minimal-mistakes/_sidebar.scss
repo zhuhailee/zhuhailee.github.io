@@ -2,7 +2,7 @@
  * @Author: lizh
  * @Date:   2025-11-06 21:57:26
  * @Last Modified by:   lizh
- * @Last Modified time: 2025-11-07 17:51:12
+ * @Last Modified time: 2025-11-07 17:56:15
  */
 /* ==========================================================================
    SIDEBAR
@@ -130,8 +130,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
 
   @include breakpoint($large) {
     display: block;
