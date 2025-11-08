@@ -1,7 +1,7 @@
 # @Author: lizh
 # @Date:   2025-11-06 00:11:21
 # @Last Modified by:   lizh
-# @Last Modified time: 2025-11-07 18:40:27
+# @Last Modified time: 2025-11-07 18:42:13
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -328,7 +328,6 @@ defaults:
       type: posts
     values:
       layout: single
-      classes: wide
       author_profile: true
       read_time: true
       comments: # true
