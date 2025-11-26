@@ -8,4 +8,4 @@ author_profile: true
 ---
 
 
-my cv is [here]('/assets/cv/ZhuhaiLi_s_CV.pdf)
+my cv is [here]("/assets/cv/ZhuhaiLi_s_CV.pdf")
