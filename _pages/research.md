@@ -8,7 +8,7 @@ author_profile: true
   # og_image: "research/ecdf.png"
 ---
 
-My research activities
+My research activities & selected work
 
 <!-- <span style="color:gary">some *blue* text</span>. -->
 
