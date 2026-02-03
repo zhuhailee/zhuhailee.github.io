@@ -2,13 +2,13 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: False
+
 # header:
   # og_image: "research/ecdf.png"
 ---
 
 My research activities
-
 
 <!-- <span style="color:gary">some *blue* text</span>. -->
 
