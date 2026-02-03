@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /Resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 # header:
   # og_image: "research/ecdf.png"
