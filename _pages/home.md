@@ -9,4 +9,8 @@ author_profile: true
 ---
 
 
-I'm Zhuhai Li, a phd candidate at the peking university, working with Dr.Ruobing Dong. My research foucus on exoplanet and high contrast imaging.
+I'm Zhuhai Li, a phd candidate at the peking university, working with Dr.Ruobing Dong. My research foucus on exoplanet and high contrast imaging:
+
+* High contrast imaging, especially with VLT/MUSE
+* Protoplanetary disk evolution and dispersion, especially in disk jet/wind 
+* Accretion mechanisms of protoplanets
