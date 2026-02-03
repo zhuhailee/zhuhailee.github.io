@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: False
+author_profile: True
 
 # header:
   # og_image: "research/ecdf.png"
