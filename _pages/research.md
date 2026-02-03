@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "My research activities & selected work"
 permalink: /research/
 author_profile: true
 classes: wide 
@@ -9,7 +9,6 @@ classes: wide
   # og_image: "research/ecdf.png"
 ---
 
-# My research activities & selected work
 
 <!-- <span style="color:gary">some *blue* text</span>. -->
 
