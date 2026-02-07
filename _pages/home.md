@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-I'm Zhuhai Li, a phd candidate at the peking university(2024-present), working with Dr. Ruobing Dong.
+I'm Zhuhai Li (李竹海), a phd candidate at the peking university(2024-present), working with Dr. Ruobing Dong.
 
 My research foucus on exoplanet and high contrast imaging:
 
