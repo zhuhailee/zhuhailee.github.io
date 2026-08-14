@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+  <url>
+    <loc>https://zhuhailee.github.io/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <priority>1.00</priority>
 
-<url>
-  <loc>https://zhuhailee.github.io/</loc>
-  <lastmod>2026-02-03T02:21:54+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://zhuhailee.github.io/cv/</loc>
-  <lastmod>2026-02-03T02:21:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://zhuhailee.github.io/publications/</loc>
-  <lastmod>2026-02-03T02:21:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://zhuhailee.github.io/assets/cv/ZhuhaiLi_s_CV.pdf</loc>
-  <lastmod>2026-02-03T02:21:54+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+    <image:image>
+      <image:loc>https://zhuhailee.github.io/assets/images/profile11.JPG</image:loc>
+    </image:image>
+  </url>
 
+  <url>
+    <loc>https://zhuhailee.github.io/cv/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://zhuhailee.github.io/publications/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://zhuhailee.github.io/assets/cv/ZhuhaiLi_s_CV.pdf</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.64</priority>
+  </url>
 
 </urlset>
